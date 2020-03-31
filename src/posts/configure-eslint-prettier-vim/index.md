@@ -29,7 +29,7 @@ Next, we want to install [Asynchronous Lint Engine (ALE)](https://github.com/w0r
 We can use [vim-plug](https://github.com/junegunn/vim-plug) to install the ALE Vim plugin.
 
 ```bash
-Plug 'w0rp/ale'
+Plug 'dense-analysis/ale'
 ```
 
 There are many Vim plugin managers out there but the plugin installation process should be similar.
